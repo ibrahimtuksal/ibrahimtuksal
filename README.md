@@ -26,5 +26,6 @@ This is İbrahim. I am an Full Stack Developer in Mugla
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.15.0-green?logo=elasticsearch)
 
 ![](https://github-readme-stats.vercel.app/api?username=ibrahimtuksal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtuksal&theme=dark&hide_border=false)<br/>
 
 
