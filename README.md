@@ -5,6 +5,9 @@ This is İbrahim. I am an Full Stack Developer in Mugla
 - 🔭 I’m currently working on @Youthall
 - 🌱 I’m currently learning ReactJS
 
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrm.php) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimtuksal) 
+
 ![](https://komarev.com/ghpvc/?username=ibrahimtuksal&color=green)
 ![PHP](https://img.shields.io/badge/PHP-blue?logo=php)
 ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
@@ -21,4 +24,7 @@ This is İbrahim. I am an Full Stack Developer in Mugla
 ![API](https://img.shields.io/badge/API-Friendly-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.15.0-green?logo=elasticsearch)
+
+![](https://github-readme-stats.vercel.app/api?username=ibrahimtuksal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
