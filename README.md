@@ -27,6 +27,3 @@ This is İbrahim. I am an Full Stack Developer in Mugla
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtuksal&theme=dark&hide_border=true)<br/>
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=ibrahimtuksal&title=Profile%20Views&count_bg=%2379C83D&icon=&icon_color=%23E7E7E7&title_color=%23555555&bg_color=%23FFFFFF)
-
-
