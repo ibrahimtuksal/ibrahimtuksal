@@ -4,11 +4,11 @@ This is İbrahim. I am an Full Stack Developer in Mugla
 
 - 🔭 I’m currently working on @Youthall
 - 🌱 I’m currently learning ReactJS
+- 👀 ![](https://komarev.com/ghpvc/?username=ibrahimtuksal&color=green)
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrm.php) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimtuksal) 
 
-![](https://komarev.com/ghpvc/?username=ibrahimtuksal&color=green)
 ![PHP](https://img.shields.io/badge/PHP-blue?logo=php)
 ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
