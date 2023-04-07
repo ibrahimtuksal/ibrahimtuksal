@@ -7,7 +7,7 @@ This is İbrahim. I am an Full Stack Developer in Mugla
 - 👀 ![](https://komarev.com/ghpvc/?username=ibrahimtuksal&color=green)
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrm.php) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimtuksal) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrm.php) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-tuksal/) 
 
 ![PHP](https://img.shields.io/badge/PHP-blue?logo=php)
 ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
