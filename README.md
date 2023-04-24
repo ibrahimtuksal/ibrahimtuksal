@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is İbrahim. I am an Full Stack Developer in Mugla
+This is İbrahim. I am an Full Stack Developer
 
 - 🔭 I’m currently working on @Youthall
 - 🌱 I’m currently learning ReactJS/NextJS
