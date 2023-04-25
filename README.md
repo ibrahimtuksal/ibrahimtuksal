@@ -3,7 +3,7 @@
 This is İbrahim. I am an Full Stack Developer
 
 - 🔭 I’m currently working on @Youthall
-- 🌱 I’m currently learning ReactJS/NextJS
+- 🌱 I’m currently learning ReactJS/NextJS/TailwindCSS
 - 👀 ![](https://komarev.com/ghpvc/?username=ibrahimtuksal&color=green)
 
 ### 🌐 Socials:
